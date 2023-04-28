@@ -12,4 +12,7 @@ leCurseur.execute(""" SELECT title, description FROM books WHERE author = %s """
 pprint.pprint(leCurseur.fetchall())
 leCurseur.query("update books set title='assommoir' where author='Zola'")
 uneConnexionBDD.commit()
-# test 1
+
+
+aws_access_key_id = AKIAVD32IN6IG67QP6SP
+aws_secret_access_key = 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
