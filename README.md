@@ -1,2 +1,1 @@
-# ggshield-pre-commit-demo
-# ggshield-gh-actions
+This repository has been made for honeytokens demonstation.
