@@ -16,3 +16,7 @@ uneConnexionBDD.commit()
 
 aws_access_key_id = AKIAVD32IN6IG67QP6SP
 aws_secret_access_key = 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
+
+
+
+apikey='xoxb-163213206324-QSFEZA34235SFDGDFDGG22324343',
